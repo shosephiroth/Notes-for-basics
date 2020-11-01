@@ -1,6 +1,6 @@
 # Object Functions / Class Functions
 
-# a function that we can use inside of a class it can modify the objects of that class or give us specific information about thodr objects
+# a function that we can use inside of a class it can modify the objects of that class or give us specific information about thodr(did I mean other?) objects
 
 # Student.py file:
 
